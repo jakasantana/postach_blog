@@ -1,5 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500,700,300italic,400italic,500italic);
 @import url(http://postach.io/static/themes/_assets/symbolset/ss-pika.css);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,700,300,600,400);
 /*---------------------------------------------------
     LESS Elements 0.9.1
   ---------------------------------------------------
@@ -61,11 +61,12 @@ a:hover {
 }
 body {
   font-size: 100%;
-  font-family: 'Roboto', helvetica, arial, sans-serif;
+  font-family: 'Open Sans', helvetica, arial, sans-serif;
   color: #0e3029;
-  line-height: 1.5rem;
-  font-family: 'Roboto';
-  font-weight: 300;
+  line-height: 1.7rem;
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 1.2em;
 }
 h1,
 h2,
@@ -73,7 +74,7 @@ h3,
 h4 {
   color: #0e3029;
   padding: 0 0 50px 0;
-  font-family: 'Roboto';
+  font-family: 'Open Sans';
   font-weight: 300;
 }
 h1 {
@@ -265,7 +266,7 @@ header img.rainbow {
   height: 2px;
 }
 header h1 {
-  font-family: 'Roboto';
+  font-family: 'Open Sans';
   font-weight: 700;
   text-transform: uppercase;
   font-size: 1.75rem;
@@ -297,7 +298,7 @@ header ul li {
 header ul li a {
   display: inline-block;
   padding-bottom: 6px;
-  font-family: 'Roboto';
+  font-family: 'Open Sans';
   font-weight: 400;
   color: #ffffff;
 }
@@ -880,13 +881,13 @@ a.btn.btn-mini:hover {
 }
 .post-author p span.post-date {
   color: #afb7b5;
-  font-family: 'Roboto';
+  font-family: 'Open Sans';
   font-weight: 300;
   font-size: 0.85rem;
 }
 .post-author p span.post-author-name {
   font-size: 0.85rem;
-  font-family: 'Roboto';
+  font-family: 'Open Sans';
   font-weight: 400;
   color: #37cca2;
 }
@@ -906,7 +907,7 @@ a.btn.btn-mini:hover {
   font-size: 0.85rem;
 }
 .post-options li a {
-  font-family: 'Roboto';
+  font-family: 'Open Sans';
   font-weight: 400;
   font-size: 0.9rem;
 }
@@ -1082,7 +1083,7 @@ div.posts div.item .post-author img {
 }
 div.posts div.item .post-author p {
   padding: 4px 0 0 10px;
-  font-family: 'Roboto';
+  font-family: 'Open Sans';
   font-weight: 400;
 }
 div.posts div.item .post-author p span {
@@ -1114,7 +1115,7 @@ div.posts h3 {
   padding: 0 0 12.5px 0;
   margin: 0;
   font-size: 2.25rem;
-  font-family: 'Roboto';
+  font-family: 'Open Sans';
   font-weight: 300;
   color: #0e3029;
 }
@@ -1149,7 +1150,7 @@ h3.tag-header {
   margin: 0;
   clear: both;
   font-size: 0.85rem;
-  font-family: 'Roboto';
+  font-family: 'Open Sans';
   font-weight: 400;
 }
 .pagination:after {
