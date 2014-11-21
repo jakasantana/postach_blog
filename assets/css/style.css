@@ -926,7 +926,7 @@ div.posts {
 div.posts div.item {
   display: block;
   clear: both;
-  padding: 0 0 62.5px 0;
+  padding: 0 0 20px 0;
 }
 div.posts div.item:last-of-type {
   padding-bottom: 0;
@@ -1091,7 +1091,7 @@ div.posts div.item .post-author p span {
 }
 div.posts div.item .dots {
   display: block;
-  padding-top: 50px;
+  padding-top: 20px;
   clear: both;
   text-align: center;
 }
